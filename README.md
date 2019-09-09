@@ -4,7 +4,7 @@ suma en php
 <html>
 
 <head>
-<title>SUMA</title>
+<title>SUMA en PHP</title>
 <script>
 function sumar() {
 var n1 = parseInt(document.MyForm.numero1.value);
